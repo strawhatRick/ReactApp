@@ -1,0 +1,2 @@
+export const BUY_PINEAPPLE = 'BUY_PINEAPPLE';
+export const NOT_BUY_PINEAPPLE = 'NOT_BUY_PINEAPPLE';
