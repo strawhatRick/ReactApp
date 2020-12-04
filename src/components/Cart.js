@@ -55,7 +55,8 @@ const Cart = (props) => {
             <button onClick={() => {
                 dispatch(buySweetMango());
             }}>INCREASE</button>
-
+            
+            <button onClick={() => alert('Thanks for shopping with us!')}>ORDER</button>
         </>
     )
 }
